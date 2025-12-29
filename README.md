@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Deniyi Tunji
 =====================================================================================================================================
 
-🚀 | AI Engineer x Viber Coder (Profitable Personal Brand Architect)
+🚀 | AI Engineer x Vibe Coder (Profitable Personal Brand Architect)
 --------------------------------------------------------------------
 
 Started off with coding -> Digital Marketing -> Helping Brands grow with Tech
