@@ -58,7 +58,7 @@ MSc Applied Computing @ Wilfrid Laurier University | Graduating Dec 2026
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ovxncdev)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/deniyitunji)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:aden2450@mylaurier.ca)
 [![RiseWork](https://img.shields.io/badge/-RiseWork-FF6B35?style=flat&logo=rocket&logoColor=white)](https://risework.app)
 
