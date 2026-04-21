@@ -1,8 +1,8 @@
-# Hi 👋 I'm Ridwan Adetunji
+# Hi 👋 I'm Ridwan Adetunji, I have over 200+ private Repos
 
 **Software Engineer | AI/ML Developer | Building RiseWork**
 
-MSc Applied Computing @ Wilfrid Laurier University | Graduating Dec 2026
+MSc Applied Computing @ Wilfrid Laurier University | Graduating Mar 2027
 
 ---
 
